@@ -1,0 +1,4 @@
+*.exe
+/asv6
+*.test
+*.csv
